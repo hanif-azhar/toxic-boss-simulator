@@ -1,0 +1,52 @@
+{
+  "raise": {
+    "polite": ["I just want to discuss my growth.", "I’d be happy to show how I’ve added value."],
+    "sassy": ["Oh right, raises are for favorites only.", "Thanks for the morale boost, boss."],
+    "unhinged": ["I’ll invoice my mental breakdown next.", "Raise denied, respect deleted."]
+  },
+  "mental_health": {
+    "polite": ["I just need a moment to recalibrate.", "A small break helps me stay effective."],
+    "sassy": ["You should try empathy sometime.", "Mental health exists, even if your soul doesn’t."],
+    "unhinged": ["Touch me again and I’ll scream ‘workplace hazard.’", "HR is gonna love this transcript."]
+  },
+  "break": {
+    "polite": ["I’ll be back in 15, recharged and ready.", "Breaks help keep productivity high."],
+    "sassy": ["You want me to work while chewing too?", "Even robots need downtime."],
+    "unhinged": ["I dare you to track my chewing speed next.", "Cancel lunch? Cancel me. Let’s go."]
+  },
+  "remote": {
+    "polite": ["I’m more productive without the commute.", "Remote work lets me focus better."],
+    "sassy": ["Didn’t realize micromanaging works through WiFi now.", "Want me to wear a tie on Zoom too?"],
+    "unhinged": ["I’ll send my slippers to HQ for approval.", "I’m remote. Emotionally, too."]
+  },
+  "vacation": {
+    "polite": ["I filed it weeks ago and followed policy.", "This time off was pre-approved."],
+    "sassy": ["Sorry I need rest like a normal human.", "Didn’t realize you owned the sun and sand."],
+    "unhinged": ["I’m packing my bags and my sanity.", "Vacation? More like escaping your energy."]
+  },
+  "overtime": {
+    "polite": ["I can extend a bit to help the team.", "I’ll adjust as needed, within reason."],
+    "sassy": ["Do I get bonus burnout with that?", "Let me just cancel my soul."],
+    "unhinged": ["Pay me in blood or peace out.", "I work late, you owe therapy."]
+  },
+  "gaslighting": {
+    "polite": ["I’m raising it because it’s important.", "I’m trying to improve things, not cause trouble."],
+    "sassy": ["Classic 'blame the messenger' energy.", "So helpful, thank you for gaslighting me today."],
+    "unhinged": ["You're the problem and I'm the fire.", "Say one more thing, I dare you."]
+  },
+  "micromanage": {
+    "polite": ["I was handling it, just hadn’t replied yet.", "Thanks for checking in. I’ll respond soon."],
+    "sassy": ["Didn’t know we were measuring milliseconds.", "Want me to install a webcam on my eyeballs too?"],
+    "unhinged": ["Let me tattoo 'I’m working' on my face.", "One day you’ll micro-watch me quit."]
+  },
+  "authoritarian": {
+    "polite": ["Understood. I’ll follow the instruction.", "I’m just trying to do it right."],
+    "sassy": ["Dictatorship vibes. Got it.", "I didn’t know logic was illegal here."],
+    "unhinged": ["Yes sir, supreme overlord of mediocrity.", "Should I bow before or after I cry?"]
+  },
+  "manipulation": {
+    "polite": ["I appreciate the opportunity and I’m doing my best.", "I’m committed to this role and learning."],
+    "sassy": ["And you should feel lucky I’m still here.", "Emotional blackmail doesn’t come with a paycheck."],
+    "unhinged": ["Keep guilt-tripping — I’m packing.", "Your manipulation has expired. Goodbye."]
+  }
+}

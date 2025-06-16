@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "You want a raise? For what exactly?",
+    "category": "raise"
+  },
+  {
+    "id": 2,
+    "text": "No, we don’t need to talk about mental health. Get back to work.",
+    "category": "mental_health"
+  },
+  {
+    "id": 3,
+    "text": "You're on lunch break? Must be nice to have so much free time.",
+    "category": "break"
+  },
+  {
+    "id": 4,
+    "text": "Why are you working from home again? We can’t babysit you remotely.",
+    "category": "remote"
+  },
+  {
+    "id": 5,
+    "text": "We expect full commitment. Vacations should be earned, not taken.",
+    "category": "vacation"
+  },
+  {
+    "id": 6,
+    "text": "I don’t care if it's 11PM. The deadline is the deadline.",
+    "category": "overtime"
+  },
+  {
+    "id": 7,
+    "text": "We hired you to solve problems, not complain about them.",
+    "category": "gaslighting"
+  },
+  {
+    "id": 8,
+    "text": "I didn’t see you reply in 3 minutes. Are you even online?",
+    "category": "micromanage"
+  },
+  {
+    "id": 9,
+    "text": "This isn’t a democracy. Just do what I said.",
+    "category": "authoritarian"
+  },
+  {
+    "id": 10,
+    "text": "You should feel lucky to even have a job right now.",
+    "category": "manipulation"
+  }
+]
